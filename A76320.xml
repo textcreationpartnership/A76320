@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bedlam broke loose, a review of that boist'rous uproar, whereby the lives of the right honourable Digby Lord Gerard and his mother were eminently endanger'd, June 1677.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76320</idno>
+            <idno type="STC">Wing B1674A</idno>
+            <idno type="STC">ESTC R172684</idno>
+            <idno type="EEBO-CITATION">45504700</idno>
+            <idno type="OCLC">ocm 45504700</idno>
+            <idno type="VID">171595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76320)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171595)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2577:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bedlam broke loose, a review of that boist'rous uproar, whereby the lives of the right honourable Digby Lord Gerard and his mother were eminently endanger'd, June 1677.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: Print show-through.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gerard, Digby.</term>
+               <term>Assault and battery --  England --  London.</term>
+               <term>Mobs --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171595:1" rendition="simple:additions"/>
+            <p>BEDLAM Broke looſe, A Reveiw of that Boiſt'rous
+<hi>Uproar,</hi> whereby the <hi>Lives</hi> of the Right Honourable DIGBY LORD
+GERARD and his <hi>Mother,</hi> were eminently Endanger'd, <hi>June</hi>
+1677.</p>
+            <p>
+               <hi>Praeteriti dulce eſt Meminiſſe periculi.</hi>
+            </p>
+            <p>London, Printed 1677.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:171595:2"/>
+            <pb facs="tcp:171595:2"/>
+            <head>BEDLAM broke looſe, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>F all <hi>Wild Beaſts,</hi> Heaven defend us from the
+<hi>Rabble Rampant! Africk</hi> has not a <hi>Monſter</hi> ſo
+outragiouſly Cruel, as <hi>This</hi> with the <hi>Many-Heads</hi> and no
+<hi>Brains.</hi> Next the <hi>miſchief</hi> of their <hi>Hands,</hi> there is
+nothing more to be drea<g ref="char:EOLhyphen"/>ded than the <hi>Venome</hi> of their <hi>Tongues;</hi>
+for when they have committed their <hi>Savage Exploits,</hi> they
+<hi>Bruit</hi> abroad <hi>Slaunders</hi> to varniſh over their
+<hi>Inſo<g ref="char:EOLhyphen"/>lence,</hi> and pretend <hi>Reaſons</hi> for their
+<hi>Phrenſies.</hi>
+            </p>
+            <pb n="4" facs="tcp:171595:3"/>
+            <p>The Entertainment which the <hi>Noble Digby Lord Gerard</hi> met
+with in the City of <hi>London</hi> laſt <hi>Whitſontide,</hi> was ſo far
+remote from common <hi>Ci<g ref="char:EOLhyphen"/>vility,</hi> much more, the <hi>Reſpect</hi> due to
+a perſon of his QUALITY <hi>and</hi> MERIT, that <hi>Indians</hi> would have
+<hi>Bluſſht</hi> at thoſe <hi>Barbarities,</hi> which an
+<hi>Ungovernable</hi> crew of <hi>Heathen-Chriſtians</hi> Acted, without
+either <hi>Remorſe,</hi> or (what is more to be lamented)
+<hi>Puniſh<g ref="char:EOLhyphen"/>ment</hi> from Juſtice; yet have they ſince made as
+<hi>hold</hi> with his Lordſhips <hi>Honour,</hi> as then with his
+<hi>Perſon;</hi> and by <hi>spurious</hi> Reports (begot in cloſe
+<hi>Adulteries</hi> between <hi>Lying</hi> Tongues, and <hi>Itching</hi> Ears)
+endeavour to caſt the Odium of that <hi>Frantick</hi> Tumult upon thoſe
+that were only <hi>paſſive<g ref="char:EOLhyphen"/>ly</hi> concern'd, and (to the grand hazard of
+their Lives) <hi>cauſleſly</hi> Aſſaulted.</p>
+            <p>For <hi>Rectifying</hi> ſuch <hi>falſe</hi> and
+<hi>ſcandalous</hi> rumours rais'd by <hi>Malice,</hi> and ſwallow'd by
+<hi>Ignorance;</hi> tis become <hi>neceſſary</hi> to give the world the
+true <hi>Riſe, Progreſs, and Up-ſhot</hi> of that riotous
+<hi>Hubbub,</hi> the memory whereof I could otherwiſe wiſh might re<g ref="char:EOLhyphen"/>main as
+<hi>obſcure</hi> as its Original <hi>Authors,</hi> that <hi>our Age</hi>
+might be free from the <hi>ſcandal,</hi> and <hi>Poſterity</hi> from the
+<hi>Ill-precedent</hi> of ſuch a <hi>popular</hi> exorbi<g ref="char:EOLhyphen"/>tance.</p>
+            <pb n="5" facs="tcp:171595:3"/>
+            <p>The Lord GERARD being but in the <hi>fifteenth</hi> year of his
+Age, ever <hi>Piouſly</hi> and <hi>harmleſly</hi> Edu<g ref="char:EOLhyphen"/>cated, the natural
+<hi>ſweetneſs</hi> of his Temper, and acquir'd Accompliſhments from
+<hi>Liberal</hi> Studies and <hi>virtuous principles,</hi> rendring his
+<hi>deportment</hi> not only <hi>Inoffenſive,</hi> but moſt
+<hi>generouſly obliging</hi> to the <hi>meaneſt</hi> perſons. Going with
+his <hi>Mother</hi> and o<g ref="char:EOLhyphen"/>thers in the <hi>Whitſon</hi> holy days 1677.
+(ſoon after his firſt coming to Town) to ſee new <hi>Bedlam</hi> (yet not
+out of curioſity, but on Extraordinary occaſion) coming near to the Gate,
+deſired a woman that there obſtructed the paſſage, by the name of GOOD
+WOMAN to ſtand by, that he might ſpeak with the Porter of the Houſe.</p>
+            <p>'Twas ſure his Lordſhips excellent <hi>Good-Nature</hi>
+overſway'd his Judgement to beſtow that <hi>improper</hi> Appellation upon
+her, for had he but conſider'd the rules of <hi>Phyſiognomy</hi> he might
+have read the virtues of all the three <hi>Furies,</hi> with a
+<hi>Land<g ref="char:EOLhyphen"/>skip</hi> of <hi>Bridewel</hi> and <hi>Newgate</hi> to boot, in the
+diſ<g ref="char:EOLhyphen"/>orderly <hi>Hieroglyphicks</hi> of her <hi>wretched</hi> countenance;
+whether not being us'd to be <hi>call'd</hi> ſo, and <hi>conſcious</hi> how
+little ſhe deſerv'd the <hi>Title,</hi> made her take it for an Affront, or
+that the fumes of her in<g ref="char:EOLhyphen"/>digeſted <hi>Ale</hi> and <hi>Brandy</hi> at that
+unlucky minute, <pb n="6" facs="tcp:171595:4"/>caus'd an
+inſurrection of <hi>Choler</hi> in her <hi>Pericranium,</hi> I cannot
+preciſely determine, this is moſt certain, that only that
+<hi>miſtake,</hi> or the meer <hi>preſumption</hi> of ſpeaking to her,
+without further provocation, was reſented as ſo heinous an offence by her
+<hi>High and mighty Gammarſhip,</hi> that it had like to have coſt <hi>my
+Lord</hi> his life; For forthwith looking ſted<g ref="char:EOLhyphen"/>faſtly and grimly upon him,
+like the <hi>Divel over Lincoln,</hi> or a <hi>Witch</hi> reading ones
+<hi>Fortune,</hi> ſhe rudely told him <hi>he muſt not come in there;</hi>
+and in<g ref="char:EOLhyphen"/>ſtead of a reaſon, at the ſame inſtant, gave him ſuch a
+<hi>blow</hi> on the noſe and eyes with her <hi>Clowniſh fiſt,</hi> as he
+was almoſt <hi>ſuffocated</hi> with his own blood, which ſuperlative
+<hi>violence</hi> was ſeconded by a <hi>Brawny Porter,</hi> a fellow compos'd
+of NOISE and <hi>Rudeneſs,</hi> whom for faſhion-ſake ſhe calls
+<hi>Husband</hi> that durſt do no other than engage in the <hi>unknown</hi>
+quarrel of his imperious <hi>Bed-Cocka<g ref="char:EOLhyphen"/>trice;</hi> and that their
+<hi>divelliſh paws</hi> might keep <hi>time</hi> to ſome <hi>Helliſh
+Muſick,</hi> ſhe call'd the <hi>Noble young Gentleman</hi> a thouſand
+times <hi>ROGUE,</hi> and other <hi>abuſive</hi> Names; but he was made
+incapa<g ref="char:EOLhyphen"/>ble of returning her thanks in her <hi>Billinſgate</hi> Complements
+(had he been <hi>vers'd</hi> in them) or a<g ref="char:EOLhyphen"/>ny other Language; and had not the
+Divine Pro<g ref="char:EOLhyphen"/>vidence <pb n="7" facs="tcp:171595:4"/>Protected
+him, had there by theſe inſo<g ref="char:EOLhyphen"/>lent and bloody <hi>Savages</hi> loſt his
+innocent <hi>Life,</hi> as he did much of the <hi>Beauty</hi> of that face
+which few can <hi>Equal.</hi>
+            </p>
+            <p>For this ſtrapping <hi>Virago,</hi> and her <hi>Mate,</hi> and
+<hi>two</hi> men more of their <hi>Raskally</hi> Companions, like ſo many
+<hi>Iriſh Maſtives,</hi> laid hold on him all at once: <hi>Four</hi> to
+<hi>one</hi> and he but a <hi>Child,,</hi> was I con<g ref="char:EOLhyphen"/>feſs ſome <hi>ſmall
+odds,</hi> but put that to the ſcore of their <hi>valour;</hi> As likewiſe
+their <hi>plucking</hi> him bar<g ref="char:EOLhyphen"/>barouſly by the <hi>Hair,</hi> which I am
+ſure was con<g ref="char:EOLhyphen"/>trary to <hi>Magna Charta</hi> and all the <hi>Fundamental
+Laws</hi> of the <hi>Bear-Garden</hi> it ſelf—But <hi>Raillery</hi>
+a<g ref="char:EOLhyphen"/>part—for they did not <hi>Jeſt,</hi> Having given him many
+<hi>desperate blows,</hi> they endeavour'd to thruſt him <hi>backwards</hi>
+down the ſtairs with an intent (no doubt) to <hi>Murder</hi> him upon the
+place: whilſt he was thus held down by the <hi>Hair,</hi> having no <hi>other
+way</hi> to <hi>defend</hi> himſelf, and make them draw back (the crowd
+keeping off his <hi>Footmen</hi> and <hi>Pages</hi>) he drew his <hi>little
+ſword,</hi> which the Porter too intent upon this Diveliſh deſign of
+gratifying his <hi>Ra<g ref="char:EOLhyphen"/>ging Baggage,</hi> heedleſly met with, and thereby
+<hi>Raz'd</hi> the skin of his belly; but one might law<g ref="char:EOLhyphen"/>fully ſwear there was
+no <hi>Chriſtian blood</hi> ſpilt.</p>
+            <pb n="8" facs="tcp:171595:5"/>
+            <p>However an <hi>Out-cry</hi> is rais'd, and immediate<g ref="char:EOLhyphen"/>ly a mighty
+rout of men and women, <hi>poſſeſt</hi> (had it been poſſible) with
+ſomething worſe than themſelves, hurry about my Lord, endeavouring with
+freſh Attaques of <hi>violent fury</hi> to take away his <hi>Noble Life;</hi>
+and though he made no reſiſtance but calmly offered to <hi>ſurrender</hi>
+himſelf to the next, or any Magiſtrate; yet they <hi>Hale</hi> him from one
+place to another, ſtill perſued by the impe<g ref="char:EOLhyphen"/>tuous clamours of this worthy
+<hi>Apple-woman,</hi> who began all the miſchief; and now <hi>Haloo'd</hi> on
+the <hi>yelping Rabble</hi> as oft as ſhe could get within
+<hi>Tongue-ſhot,</hi> diſcharging her <hi>Mouth Granadoes</hi> of Oathes
+and Curſes, crying, <hi>let him come out ile tear him to pieces, &amp;c.</hi>
+at laſt being put into his own Coach to go before a Juſtice, an impudent
+<hi>Shomaker</hi> broke the glaſſes, and he and another flung
+<hi>Brick-batts</hi> into the Coach, but for that my Lord can forgive them from
+a <hi>glorious precedent</hi> that patiently ſuffered the ſame and worſe
+indigni<g ref="char:EOLhyphen"/>ties; ſome of their elder Brethren threw the like into the Coach of
+St. <hi>Charles</hi> their <hi>KING,</hi> whom they <hi>Martyr'd;</hi> Thus now
+this bluſtering <hi>Hew<g ref="char:EOLhyphen"/>ſon</hi> with many others of the ſame
+caſt—cryd—<hi>Kill him, kill him, knock him oth head, pull him to
+pieces, <pb n="9" facs="tcp:171595:5"/>daſh out his
+brains,</hi> and many other modes of Exe<g ref="char:EOLhyphen"/>cution, more than <hi>Sicilian</hi>
+Tyrants ever invented, was he preſently <hi>doom'd</hi> to, by theſe
+<hi>Peerleſs</hi> and lawleſs judges; who to ſhew that they were in
+<hi>bad earneſt,</hi> made ſuch ſevere <hi>blows</hi> into the Coach,
+that a Gentleman in it with my Lord wore the <hi>Marks</hi> a good while after
+on his Arms; The <hi>Bedlamites within</hi> were a <hi>ſober</hi> diſcreet
+Tribe in compariſon of <hi>theſe without;</hi> to appeaſe their rage no
+Remonſtrances of reaſon could be heard, neither <hi>Beauty,</hi> (which has
+diſarm'd Conquerors in the heat of battel) nor <hi>Eloquence</hi> (that has
+calm'd the wildeſt Tumults) nor <hi>Youth</hi> (which uſually engages
+pitty) nor <hi>Obliging condeſcentions</hi> (which are wont to ſoften the
+moſt obdurate and inſenſed, to terms of moderation) could here pre<g ref="char:EOLhyphen"/>vail;
+The Tears of an innocent affrighted <hi>Lady,</hi> the Prayers of an indulgent
+<hi>Mother,</hi> (deſiring only common juſtice for her endangerd Son) were
+ſlighted; nay all <hi>Authority</hi> contemn'd and abu<g ref="char:EOLhyphen"/>ſed, for the very
+<hi>Conſtables</hi> and Officers that guar<g ref="char:EOLhyphen"/>ded my Lord, ſtood in need of a
+<hi>Guard</hi> for them<g ref="char:EOLhyphen"/>ſelves, being threatned to be torn to pieces, for
+endeavouring to keep the <hi>Peace,</hi> and reſtrain them from
+<hi>Murdering</hi> him; So that my Lord was forc'd
+<pb n="10" facs="tcp:171595:6"/>to quit his Coach, and to
+avoid being <hi>Aſſaſſinated</hi> by theſe <hi>Ruffians,</hi> make a
+<hi>Sanctuary</hi> of the <hi>Counter,</hi> where through Gods mercy, his life
+was ſaved, though the Rout was ſo ſet upon miſchief, that they broke,
+and began to <hi>untile</hi> the <hi>place</hi> to get at him, threatning to
+pull it down, which in all likelihood they had accompliſht, had not the
+Sheriff Sir. <hi>Thomas Stamp</hi> (the only great officer that could be found)
+been ſent for to quell them; who were grown to ſuch a Head that the Lady
+<hi>GERARD</hi> has ſeriouſly profeſſ'd ſhe thinks ſhe ſhould (if
+not been kill'd by their actual vio<g ref="char:EOLhyphen"/>lence) have dyed with the juſt
+apprehenſion of her ſons danger, had it not been for the <hi>generous</hi>
+and <hi>Chriſtian</hi> charity of four perſons of Quality, two <hi>valiant
+Brothers,</hi> and two as <hi>worthy obliging La<g ref="char:EOLhyphen"/>dies,</hi> their near
+Relations, meer ſtrangers to her Honour, who yet <hi>Reſcued</hi> and
+aſſiſted her and my Lord, and left them not till ſafe and out of
+dan<g ref="char:EOLhyphen"/>ker, Nor can ſhe forget with Gratitude to ac<g ref="char:EOLhyphen"/>gnowledge the civilities of
+a worthy <hi>Citizen</hi> and his <hi>virtuous wife,</hi> who ſecured and
+entertain'd them in his houſe to the hazard of having it pull'd down over his
+head by the <hi>Bedlamiz'd multitude.</hi>
+            </p>
+            <p>To give an exact account of that <hi>motley crew</hi>
+               <pb n="11" facs="tcp:171595:6"/>is impoſſible, it
+comprehended more ſorts of Beaſts than <hi>Noah's Ark,</hi> and as many
+Sects of <hi>No-Religion</hi> as Presbytery ever ſpawn'd; many of them
+pretended themſelves <hi>London Prentices</hi> fa<g ref="char:EOLhyphen"/>mous for offering to
+demoliſh <hi>Bawdy-houſes,</hi> out of a politick deſign ile warrant you,
+to be <hi>Brib'd</hi> with money to <hi>ſpend in them,</hi> For in earneſt
+we may gueſs they had rather pull down all the <hi>Nobility</hi> and
+<hi>Gentry,</hi> than one of <hi>thoſe;</hi> elce tis ſtrange, not only the
+<hi>Lord Gerard</hi> and his <hi>Mother</hi> too, ſhould not by their will be
+ſuffered to live, but that <hi>another Noble Lady</hi> coming in her Coach
+occaſionally to <hi>Bedlam</hi> whilſt this godly work was carrying on,
+ſhould be no leſs ſawcily af<g ref="char:EOLhyphen"/>fronted by a peſtilent corporation of this
+<hi>Rabble,</hi> crying out—<hi>Tear her to pieces, knock out her brains,
+This is the Bitch his Mother, &amp;c.</hi> breaking her Coach, and hurting
+ſeveral with her; The firſt time I dare affirm either that Honourable Lady,
+or the Lady <hi>Gerard</hi> ever received ſuch <hi>uſage</hi> or
+<hi>Language;</hi> yet would I not charge this <hi>Rudeneſs</hi> on the
+<hi>Apprentices</hi> of <hi>London</hi> in general, as hoping that the better
+ſort of them as they are more gene<g ref="char:EOLhyphen"/>rouſly deſcended, ſo they ſcorn to
+mix with ſuch a miſchievous <hi>Raſcally Rout;</hi> but in all Tumults
+<pb n="12" facs="tcp:171595:7"/>there are a parcel of
+Beggarly <hi>Filching Vermine</hi> that aſſume <hi>their</hi> names, and
+under that pretence <hi>Ra<g ref="char:EOLhyphen"/>vage</hi> at their pleaſures, and commit the
+moſt <hi>nefarious Crimes.</hi>
+            </p>
+            <p>But now tis high time to ſee how the <hi>Porter</hi> does;
+Life you know is ſweet, and had it not been for the Cordial drinking of
+<hi>Ale</hi> and ſmoak<g ref="char:EOLhyphen"/>ing <hi>Tobacco,</hi> our man of <hi>Carriage</hi>
+might poſſibly have miſcarryed; for that night his Surgeon took a
+Corporal oath in ſpight of his Soul, that his wound was mortal; and indeed,
+<hi>To a Bruit that had neither Brains, nor Heart, the Likelieſt In<g ref="char:EOLhyphen"/>lett of
+Death was in the Paunch;</hi> yet the man of <hi>Art</hi> never dreſſ'd it,
+for fear of making <hi>too speedy a Cure;</hi> and the very <hi>next</hi> day
+made a civil <hi>Affida<g ref="char:EOLhyphen"/>vit,</hi> that he <hi>was in no danger;</hi> whence we
+may conclude, that he <hi>heald him and his own Conſcience both by
+Sympathy;</hi> But notwithſtanding in the vulgar Creed he has been mortally
+wounded, dead, and buried, yet he is ſince curs d into a
+<hi>Re<g ref="char:EOLhyphen"/>ſurrection</hi> by living again (though in a perpetual Purgatory) with
+that <hi>ſhe-Fiend</hi> before mentioned, to whom he durſt not but retorne,
+dwelling at this inſtant near <hi>Newgate,</hi> a place as fit as any I know
+for him; nor is his name leſs ſuitable, for he
+<pb n="13" facs="tcp:171595:7"/>calls himſelf J. NOISE, and
+<hi>all the Neigh<g ref="char:EOLhyphen"/>bourhood can witneſs that his ſpouſe</hi> (whether the
+Ce<g ref="char:EOLhyphen"/>remony ever paſſ'd between them or not) <hi>may yet very juſtly lay
+claim to that Name as well as he.</hi>
+            </p>
+            <p>And now one would think the <hi>Hurricane</hi> were pretty well
+laid, but I ſhould be unjuſt to the <hi>Shomakers</hi> excellent grace of
+<hi>perſeverance,</hi> if I omit his <hi>Laſting</hi> valour and
+Chriſtian charity, who ſeveral dayes after (when one might have hoped the
+Fermentation of his cholerique blood had been ſomewhat abated) very gravely
+declared— <hi>That it was a world of pitty my Lord</hi> Gerards
+<hi>brains had not been knock'd out;</hi> and ſome of this godly crew have
+threatned to have <hi>another bout</hi> with him, if ever he come into the
+City. Yet if we enquire into the worthy reaſons of their ſpight, they have
+never been able to alledge the leaſt ſhadow of pretence; their greateſt
+Plea being, <hi>That they knew not that he was a Lord;</hi> nor is it like they
+ſhould, unleſs ſet on, as the manner of their At<g ref="char:EOLhyphen"/>tempt induces many
+judicious perſons to beleive they were; hower tis not imaginable, they would
+have paid any Reſpect to <hi>that</hi> QUALITY, who by this very excuſe do
+as bad as acknowledge, that <pb n="14" facs="tcp:171595:8"/>they
+count all <hi>below</hi> it at leaſt, though never ſo much their
+<hi>Betters,</hi> fit objects of their <hi>Abuſes;</hi> In a word, all
+circumſtances conſidered, this <hi>Honourable Child</hi> being, though of
+<hi>Engliſh</hi> and <hi>Loy<g ref="char:EOLhyphen"/>al</hi> Parents, an abſolute
+<hi>ſtranger</hi> to the Town, and one that none of them ever <hi>loſt</hi>
+by, but ſome on the contrary <hi>gain'd,</hi> (the common meaſures both of
+their <hi>Love</hi> and <hi>Religion</hi>) Twas as grand and
+<hi>Fana<g ref="char:EOLhyphen"/>tical</hi> an inſolence (bateing but the bloodyfreaks of the
+<hi>Fifth Monarch-men</hi>) as ever was acted ſince the Reſtauration of our
+<hi>ſacred King;</hi> who (as he is never wanting in Acts of
+<hi>Goodneſs</hi> and <hi>Juſtice</hi> even to the meaneſt of his
+Subjects) was <hi>graciouſly</hi> pleaſed on the firſt humble Addreſs
+to deliver this oppreſſed young <hi>Gentleman,</hi> by giving orders to the
+Magiſtrates, but 'twas ſo long before any of them could be found, that Ten
+thouſand Lives might have been loſt, if not within the Pale of God's
+eſpecial Protection, and had not his Cre<g ref="char:EOLhyphen"/>ator bleſſ'd him with an
+<hi>Excellent Conſtitution,</hi> the hard and different uſage from that of
+all his Life, which he received as well by the <hi>Cold</hi> as
+<hi>Bruiſes</hi> he had ſuffered, without application of any remedy, not
+being allow'd to go to his <hi>Lodging,</hi> was e<g ref="char:EOLhyphen"/>nough to put a period to his
+<hi>Life</hi> they ſo much <pb n="15" facs="tcp:171595:8"/>thirſted
+after, no body knows why.</p>
+            <p>Yet muſt it be acknowledg'd, that my <hi>Lord</hi> was very
+civily and Hoſpitably treated at that worthy Gentleman Sr. <hi>William
+Turner's</hi> houſe, but was not diſmiſſ'd till next day, and then not
+without <hi>City Bail,</hi> to appear at the next Seſſions of the Peace at
+<hi>Guild-Hall,</hi> where he was diſcharged; And though there was all done,
+that could be there, and perhaps <hi>more</hi> than can be juſtified
+a<g ref="char:EOLhyphen"/>gainſt this <hi>Noble Innocent,</hi> yet I know not <hi>how,</hi> nor
+<hi>why</hi> it happen'd, that there was not the leaſt
+<hi>Pro<g ref="char:EOLhyphen"/>ſecution</hi> admitted, or notice taken of any of thoſe
+<hi>inſolent Rioters,</hi> that ſo barbarouſly injured him, and
+notoriouſly <hi>broke</hi> the <hi>Peace,</hi> in affront of Law, and to the
+<hi>ſcandal</hi> of that <hi>City</hi> heretofore for <hi>Ci<g ref="char:EOLhyphen"/>vil
+Government</hi> renowned throughout <hi>Europe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
